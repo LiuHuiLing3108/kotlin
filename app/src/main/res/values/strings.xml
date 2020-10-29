@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">kotlin</string>
+    <string name="btn_scissor">0</string>
+    <string name="btn_stone">1</string>
+    <string name="btn_paper">2</string>
+    <string name="tv_text">0</string>
+    <string name="tv_name">0</string>
+    <string name="tv_cmora">0</string>
+    <string name="tv_winner">0</string>
+</resources>
